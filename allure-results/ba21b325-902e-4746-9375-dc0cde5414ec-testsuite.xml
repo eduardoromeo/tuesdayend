@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1681093060150' stop='1681093076901'>
+    <name>Shop-Delete Feature</name>
+    <title>Shop-Delete Feature</title>
+    <test-cases>
+        <test-case start='1681093072910' status='passed' stop='1681093075098'>
+            <name>Add Products Items from Inventory Table</name>
+            <title>Add Products Items from Inventory Table</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1681093075098' status='passed' stop='1681093076035'>
+            <name>Delete Item from CartBadge</name>
+            <title>Delete Item from CartBadge</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1681093076035' status='passed' stop='1681093076248'>
+            <name>Logout the page</name>
+            <title>Logout the page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

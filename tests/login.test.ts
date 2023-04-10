@@ -18,7 +18,7 @@ describe('Set Login', () => {
     });
 
     it('Go to Login page', async () => {
-        await login.navigateTo('https://www.demoblaze.com/index.html')
+        await login.navigateTo('https://www.pivotaltracker.com/')
         
     },8000);
 

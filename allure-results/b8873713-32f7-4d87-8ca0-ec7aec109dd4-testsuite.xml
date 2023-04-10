@@ -1,0 +1,49 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1681095494135' stop='1681095514499'>
+    <name>Shop-Delete Feature</name>
+    <title>Shop-Delete Feature</title>
+    <test-cases>
+        <test-case start='1681095514140' status='failed' stop='1681095514145'>
+            <name>Add Products Items from Inventory Table</name>
+            <title>Add Products Items from Inventory Table</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Error: Timeout - Async callback was not invoked within the 20000 ms timeout specified by jest.setTimeout.</message>
+                <stack-trace>Timeout - Async callback was not invoked within the 20000 ms timeout specified by jest.setTimeout.Error: Timeout - Async callback was not invoked within the 20000 ms timeout specified by jest.setTimeout.
+                    at mapper (C:\Users\eduar\Documents\GitHub\eduardotuesdayend\node_modules\jest-jasmine2\build\queueRunner.js:21:45)
+                    at C:\Users\eduar\Documents\GitHub\eduardotuesdayend\node_modules\jest-jasmine2\build\queueRunner.js:62:41</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1681095514145' status='failed' stop='1681095514147'>
+            <name>Delete Item from CartBadge</name>
+            <title>Delete Item from CartBadge</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Error: Timeout - Async callback was not invoked within the 20000 ms timeout specified by jest.setTimeout.</message>
+                <stack-trace>Timeout - Async callback was not invoked within the 20000 ms timeout specified by jest.setTimeout.Error: Timeout - Async callback was not invoked within the 20000 ms timeout specified by jest.setTimeout.
+                    at mapper (C:\Users\eduar\Documents\GitHub\eduardotuesdayend\node_modules\jest-jasmine2\build\queueRunner.js:21:45)
+                    at C:\Users\eduar\Documents\GitHub\eduardotuesdayend\node_modules\jest-jasmine2\build\queueRunner.js:62:41</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1681095514147' status='failed' stop='1681095514148'>
+            <name>Logout the page</name>
+            <title>Logout the page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Error: Timeout - Async callback was not invoked within the 20000 ms timeout specified by jest.setTimeout.</message>
+                <stack-trace>Timeout - Async callback was not invoked within the 20000 ms timeout specified by jest.setTimeout.Error: Timeout - Async callback was not invoked within the 20000 ms timeout specified by jest.setTimeout.
+                    at mapper (C:\Users\eduar\Documents\GitHub\eduardotuesdayend\node_modules\jest-jasmine2\build\queueRunner.js:21:45)
+                    at C:\Users\eduar\Documents\GitHub\eduardotuesdayend\node_modules\jest-jasmine2\build\queueRunner.js:62:41</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

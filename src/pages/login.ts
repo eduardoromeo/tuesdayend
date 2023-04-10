@@ -4,10 +4,10 @@ import { BasePage } from "./base-pages";
 
 export class Login extends BasePage{
     // Locators
-    private logintab: string = '#login2';
-    private username: string = '#loginusername';
-    private password: string = '#loginpassword';
-    private loginButton: string = '//button[@class="btn btn-primary"][text()="Log in"]';
+    private logintab: string = '//a[@class="header__link header__link-signin" and @href="/signin?source=navbar"]';
+    private username: string = '//input[@id="credentials_username"]';
+    private password: string = '//input[@id="credentials_password"]';
+    private loginButton: string = '//input[@name="action"]';
     private welcomeTab: string = '#nameofuser';
     constructor(){
         super();

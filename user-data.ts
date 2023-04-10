@@ -1,9 +1,9 @@
 export const userData = {
-    username: 'karenlq',
-    password: '6522903Lq',
-    url: 'https://www.demoblaze.com/index.html',
+    username: 'eduramromeo77@gmail.com',
+    password: 'romeo1234',
+    url: 'https://www.pivotaltracker.com/',
     browser: 'chrome',
-    1: 'Samsung galaxy s6',
+  /*  1: 'Samsung galaxy s6',
     2: 'Nokia lumia 1520',
     3: 'Nexus 6',
     4: 'Samsung galaxy s7',
@@ -17,5 +17,5 @@ export const userData = {
     12: 'Dell i7 8gb',
     13: '2017 Dell 15.6 Inch',
     14: 'ASUS Full HD',
-    15: 'MacBook Pro',
+    15: 'MacBook Pro',*/
 }

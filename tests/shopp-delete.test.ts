@@ -11,8 +11,8 @@ describe('Shop-Delete Feature', () => {
     beforeAll( async () => {
         await driverInstance.start();        
         login = new Login();
-        await login.navigateTo('https://www.demoblaze.com/index.html');
-        await login.login('karenlq', '6522903Lq');
+        await login.navigateTo('https://www.pivotaltracker.com/');
+        await login.login('eduramromeo77@gmail.com', 'romeo1234');
         invetoryPage =  new InventoryPage();
         checkoutPage= new CheckoutPage();
     },20000);
